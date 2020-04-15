@@ -1,5 +1,5 @@
 # curso de verão PPGERN
-## Linguagem R aplicada à análise e visualização de dados biológicos
+__Linguagem R aplicada à análise e visualização de dados biológicos__
 
 ## Contato
 Erick Mateus-Barros: erickmbarros@gmail.com  
